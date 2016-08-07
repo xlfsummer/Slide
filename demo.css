@@ -1,0 +1,15 @@
+ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    /*flex-direction: row;*/
+    /*flex-wrap: nowrap;*/
+}
+li{
+    display: inline-block;
+    list-style: none;
+    width: 800px;
+    height: 500px;
+    background: #c33 content-box no-repeat; 
+    padding: 10px;
+}
